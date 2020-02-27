@@ -1,3 +1,3 @@
 # imOS
 
-> I am OS, anyone's operating system.
+> Powering personal devices simply and coolly.
