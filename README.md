@@ -1,2 +1,3 @@
 # imOS
-I'm the OS for anyone.
+
+> I am OS, anyone's operating system.
